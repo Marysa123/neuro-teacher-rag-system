@@ -28,7 +28,7 @@
 
 ### **Как запустить проект**
 
-1.  Откройте блокнот в Google Colab по ссылке: [Ссылка на ваш Google Colab](https://colab.research.google.com/drive/1bK6xdVeNaxNHCFbiRlXX2zfCG1D3TrTf?usp=sharing)
+1.  Откройте блокнот в Google Colab по ссылке: [Ссылка на Google Colab](https://colab.research.google.com/drive/1bK6xdVeNaxNHCFbiRlXX2zfCG1D3TrTf?usp=sharing)
 2.  Следуйте инструкциям в блокноте для запуска и экспериментов с моделью.
 
 ---
